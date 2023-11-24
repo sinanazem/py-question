@@ -1,7 +1,5 @@
 # PyQuestion
 
-<img src="https://tudip.com/wp-content/uploads/2020/06/Build_and_publish_your_own_Python_package_to_PyPi_library_website_changed-1900x600.png">
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## My Coding Solutions
 This repository contains my coding solutions for various programming challenges, including problems from HackerRank, LeetCode, and other platforms. I share my solutions to help others learn and understand different algorithms and coding techniques.
