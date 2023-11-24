@@ -20,5 +20,3 @@ third_node.next = fourth_node
 fourth_node.next = None
 
 ll = LinkedList(first_node)
-ll.head = first_node
-ll.head.data
