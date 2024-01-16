@@ -1,5 +1,16 @@
 # PyQuestion
-<img src="https://miro.medium.com/v2/resize:fit:770/1*Aqn9-zYnfhMnT0aC71dWQA.png"><br>
+
+
+<div>
+    <img src="https://miro.medium.com/v2/resize:fit:770/1*Aqn9-zYnfhMnT0aC71dWQA.png"><br>
+    <h1>PyQuestion</h1>
+  ## My Coding Solutions
+This repository contains my coding solutions for various programming challenges, including problems from HackerRank, LeetCode, and other platforms. I share my solutions to help others learn and understand different algorithms and coding techniques.
+</div>
+
+
+
+
 ## My Coding Solutions
 This repository contains my coding solutions for various programming challenges, including problems from HackerRank, LeetCode, and other platforms. I share my solutions to help others learn and understand different algorithms and coding techniques.
 
