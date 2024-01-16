@@ -1,6 +1,5 @@
 # PyQuestion
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<img src="https://miro.medium.com/v2/resize:fit:770/1*Aqn9-zYnfhMnT0aC71dWQA.png"><br>
 ## My Coding Solutions
 This repository contains my coding solutions for various programming challenges, including problems from HackerRank, LeetCode, and other platforms. I share my solutions to help others learn and understand different algorithms and coding techniques.
 
