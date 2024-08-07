@@ -31,23 +31,4 @@ To use the code in this repository, follow these steps:
 
 5. Run the code on your machine and customize it according to your requirements, if needed.
 
-## Contributing
-
-Contributions are welcome to improve the existing solutions or add new ones. If you have a better approach or want to contribute a solution in a different programming language, follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch with a descriptive name for your changes.
-
-3. Make your modifications or add new solutions.
-
-4. Commit your changes and push them to your forked repository.
-
-5. Submit a pull request, explaining your changes and why they should be merged.
-
-Please ensure that your code follows the existing coding style and includes detailed explanations for the solutions. By contributing to this repository, you agree to make your work available under the [MIT License](https://opensource.org/licenses/MIT).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
