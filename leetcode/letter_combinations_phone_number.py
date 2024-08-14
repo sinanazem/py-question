@@ -31,10 +31,11 @@ class Solution(object):
             backtracker(0, "")
         return lst
 
-
 if __name__ == "__main__":
+    
     digits = "23"
+    
     solution = Solution()
     result = solution.letterCombinations(digits)
-    print(result)
     
+    print(result)
