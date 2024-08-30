@@ -17,18 +17,6 @@ In this repository, you will find my solutions to coding challenges categorized 
 
 Feel free to explore the repository and find solutions to the coding problems you are interested in. You can also use the code as a reference to improve your own problem-solving skills and learn new algorithms and data structures.
 
-## Usage
 
-To use the code in this repository, follow these steps:
-
-1. Clone the repository to your local machine using the following command:
-
-2. Navigate to the specific problem or topic folder you are interested in.
-
-3. Choose the programming language of your choice and open the corresponding file.
-
-4. Read the problem description, approach, and code implementation in the file.
-
-5. Run the code on your machine and customize it according to your requirements, if needed.
 
 
