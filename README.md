@@ -1,4 +1,5 @@
 # py-question
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*WWrXceae4H_klzpPU6h7Hg.png" width=555>
 
 **py-question** is a collection of my personal solutions to various coding problems from platforms like LeetCode, HackerRank, Codeforces, and others. Each problem is solved in Python, and the solutions are written in my unique style.
 
