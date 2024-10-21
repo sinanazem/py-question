@@ -79,31 +79,5 @@ In this repository, I focus on:
 - Improving time and space complexity.
 - Learning new algorithms and data structures.
 
-Feel free to explore the solutions and suggest any optimizations or alternative methods!
-
-## 🤝 Contributions
-
-Contributions are welcome! If you have better solutions, optimizations, or ideas for improvement, feel free to open an issue or submit a pull request. Please ensure that your code is clean and well-documented.
-
-## 🌟 Feedback
-
-If you find any solution helpful, have any questions, or want to share feedback, feel free to reach out or open a discussion in the issues tab.
-
----
-
-Happy coding! 😊
-
----
-
-### 📧 Contact
-
-- GitHub: [sinanazem](https://github.com/sinanazem)
-- Email: sinanaazem@gamil.com
-
----
-
-## 📜 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
